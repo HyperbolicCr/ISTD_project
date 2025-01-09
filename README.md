@@ -1,5 +1,4 @@
-# This repo comp
-
+# This repo implements the project of Infrared small target detection with a lightweigt Unet Architecture.
 
 ## Requirement
 **Packages:**
